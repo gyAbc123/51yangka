@@ -36,13 +36,13 @@
                     <key>bundle-identifier</key>
                     <string>bundleID</string>
                     <key>bundle-version</key>
-                    <string>版本号</string>
+                    <string>1.1.7</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
                     <string>App</string>
                     <key>title</key>
-                    <string>名称</string>
+                    <string>51养卡</string>
                 </dict>
             </dict>
         </array>
